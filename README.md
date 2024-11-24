@@ -14,7 +14,7 @@ Thank you for your interest in contributing to the Custos-Starknet project! This
 9. [Coding Standards](#coding-standards)
 10. [Issue Reporting](#issue-reporting)
 11. [Resources](#resources)
-12. [License](#license)
+ [License](#license)
 
 ---
 
