@@ -3,28 +3,28 @@
 Thank you for your interest in contributing to the Custos-Starknet project! This repository contains the smart contracts for Custos, written in Cairo using Scarb. We appreciate contributions of all types, whether it’s a bug fix, new feature, or improvement to our documentation. Please follow the guidelines below to ensure a smooth contribution process.
 
 ## Table of Contents
-1. [Code of Conduct](#code-of-conduct)
-2. [How to Contribute](#how-to-contribute)
-3. [Development Environment Setup](#development-environment-setup)
-4. [Project Setup](#project-setup)
-5. [Testing Guidelines](#testing-guidelines)
-6. [Branching and Commit Guidelines](#branching-and-commit-guidelines)
-7. [Pull Requests](#pull-requests)
-8. [Workflow Examples](#workflow-examples)
-9. [Coding Standards](#coding-standards)
-10. [Issue Reporting](#issue-reporting)
-11. [Resources](#resources)
-12. [License](#license)
+# [Code of Conduct](#code-of-conduct)
+# [How to Contribute](#how-to-contribute)
+# [Development Environment Setup](#development-environment-setup)
+# [Project Setup](#project-setup)
+# [Testing Guidelines](#testing-guidelines)
+# [Branching and Commit Guidelines](#branching-and-commit-guidelines)
+# [Pull Requests](#pull-requests)
+# [Workflow Examples](#workflow-examples)
+# [Coding Standards](#coding-standards)
+# [Issue Reporting](#issue-reporting)
+# [Resources](#resources)
+# [License](#license)
 
 ---
 
-## 1. Code of Conduct
+## Code of Conduct
 
 Please adhere to our [Code of Conduct](#). We expect all contributors to maintain professionalism and respect when engaging with the community.
 
 ---
 
-## 2. How to Contribute
+##  How to Contribute
 
 There are several ways to contribute to Custos-Starknet:
 
@@ -35,7 +35,7 @@ There are several ways to contribute to Custos-Starknet:
 
 ---
 
-## 3. Development Environment Setup
+##  Development Environment Setup
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ ii. [Scarb Installation](https://docs.swmansion.com/scarb/download.html)
    - Add Scarb to your system PATH
 
 
-### Development Tools
+## Development Tools
 1. VS Code Extensions(recommended)
 - Cairo Language Support
 - Scarb Build Tools
