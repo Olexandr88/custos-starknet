@@ -3,18 +3,18 @@
 Thank you for your interest in contributing to the Custos-Starknet project! This repository contains the smart contracts for Custos, written in Cairo using Scarb. We appreciate contributions of all types, whether it’s a bug fix, new feature, or improvement to our documentation. Please follow the guidelines below to ensure a smooth contribution process.
 
 ## Table of Contents
-1. [Code of Conduct](#code-of-conduct)
-2. [How to Contribute](#how-to-contribute)
-3. [Development Environment Setup](#development-environment-setup)
-4. [Project Setup](#project-setup)
-5. [Testing Guidelines](#testing-guidelines)
-6. [Branching and Commit Guidelines](#branching-and-commit-guidelines)
-7. [Pull Requests](#pull-requests)
-8. [Workflow Examples](#workflow-examples)
-9. [Coding Standards](#coding-standards)
-10. [Issue Reporting](#issue-reporting)
-11. [Resources](#resources)
-12. [License](#license)
+1.- [Code of Conduct](#code-of-conduct)
+2.- [How to Contribute](#how-to-contribute)
+3.- [Development Environment Setup](#development-environment-setup)
+4.- [Project Setup](#project-setup)
+5.- [Testing Guidelines](#testing-guidelines)
+6.- [Branching and Commit Guidelines](#branching-and-commit-guidelines)
+7.- [Pull Requests](#pull-requests)
+8.- [Workflow Examples](#workflow-examples)
+9.- [Coding Standards](#coding-standards)
+10.- [Issue Reporting](#issue-reporting)
+11.- [Resources](#resources)
+12.- [License](#license)
 
 ---
 
